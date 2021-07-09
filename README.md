@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Larbi
 ---
 
-- 🔭 I’m currently working on my e-commerce startup called Dropgala.
+- 🔭 I’m currently working on my e-commerce startup called dropgala.
 - 🌱 I’m currently sharpening my skills in full-stack Javascript, DevOps and PostgreSQL.
 - 🤟 Entrepreneurial software engineer.
 <!-- - 📫 How to reach me: [on my website](https://sr-sam.tech/contact) -->
