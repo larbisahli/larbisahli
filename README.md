@@ -22,6 +22,7 @@
 ![1](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![l](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=vercel&logoColor=white)
+![l](https://img.shields.io/badge/Graphql-deeppink?style=for-the-badge&logo=graphql&logoColor=white)
 ![l](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black)
 ![1](https://img.shields.io/badge/nginx-gray?style=for-the-badge&logo=nginx&logoColor=green)
 <!-- ![1](https://img.shields.io/badge/haproxy-blue?style=for-the-badge&logo=haproxy&logoColor=white) -->
