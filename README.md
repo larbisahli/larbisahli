@@ -43,8 +43,3 @@
 ![Larbi Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larbisahli&theme=solarized_dark)
 ![Larbi Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larbisahli&theme=solarized_dark)
 ![Larbi Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larbisahli&theme=solarized_dark)
-
-### Recent repo
-<a href="https://github.com/Dropgala/image-crawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dropgala&repo=image-crawler&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
-</a>
