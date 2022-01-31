@@ -29,6 +29,8 @@
 ![1](https://img.shields.io/badge/nginx-gray?style=for-the-badge&logo=nginx&logoColor=green)
 ![1](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Larbi Sahli Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=larbisahli&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 ### 🏆 GitHub Profile Trophy:
 ---
