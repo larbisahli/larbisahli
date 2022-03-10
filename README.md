@@ -4,6 +4,7 @@
 - 🌱 Self-taught software engineer.
 - 🤟 Entrepreneurial software engineer.
 - 🔭 I’m currently sharpening my skills in full-stack Typescript, DevOps and PostgreSQL.
+- 🏢 Working on my startup ecomhost.shop a multi tenant ecommerce platform
 <!-- - 📫 How to reach me: [on my website](https://sr-sam.tech/contact) -->
 
 
