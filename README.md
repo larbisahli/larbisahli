@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=larbisahli)
+
 ### Hi there 👋 I'm Larbi
 ---
 
@@ -6,7 +8,6 @@
 - 🔭 I’m currently sharpening my skills in full-stack Typescript, DevOps and PostgreSQL.
 - 🏢 Working on my startup a multi tenant ecommerce platform
 <!-- - 📫 How to reach me: [on my website](https://sr-sam.tech/contact) -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
