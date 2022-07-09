@@ -1,18 +1,30 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=larbisahli)
+<p>
+  <h1 align="center"><b>Hello there, I'm Larbi 👋</b></h1>
+</p>
+<p align="center">
+    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=larbisahli" />
+</p>
+</p>
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/larbi-sahli-4a08671b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:larbisahli1905@gmail.com?subject=Hello, Larbi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
-### Hi there 👋 I'm Larbi
----
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am a Software Engineer;
 
 - 🌱 Self-taught software engineer.
 - 🤟 Entrepreneurial software engineer.
+- 💬 Ask me about anything, I am happy to help :smile:
+- 🧗 I try to: Go beyond and push the boundaries!
+- ⚡ Fun fact: I love working by myself.
 - 🔭 I’m currently sharpening my skills in full-stack Typescript, DevOps and PostgreSQL.
-<!-- - 📫 How to reach me: [on my website](https://sr-sam.tech/contact) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--   <a href="https://www.hackerrank.com/larbisahli1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="35" width="45" /></a> -->
-<a href="https://www.linkedin.com/in/larbi-sahli-4a08671b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+<br>
 
 ### SKILLS 
 ![langs](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,9 +51,11 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=larbisahli&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
+ 
 
 ### 📊 GitHub Stats:
-![Larbi github stats](https://github-readme-stats.vercel.app/api?username=larbisahli&theme=radical&show_icons=true&count_private=true)
+![Larbi github stats](https://github-readme-stats.vercel.app/api?username=larbisahli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&count_private=true)
+
 
 ![Larbi Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larbisahli&theme=solarized_dark)
 ![Larbi Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larbisahli&theme=solarized_dark)
