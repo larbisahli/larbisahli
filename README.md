@@ -43,18 +43,18 @@
 ![1](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Larbi Sahli Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=larbisahli&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Larbi Sahli Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=larbisahli&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a></p>
 
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=larbisahli&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=larbisahli&no-frame=true&column=8&theme=onedark"/>
 </a>
 
  
 
 ### 📊 GitHub Stats:
-![Larbi github stats](https://github-readme-stats.vercel.app/api?username=larbisahli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&count_private=true)
+![Larbi github stats](https://github-readme-stats.vercel.app/api?username=larbisahli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6)
 
 
 ![Larbi Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larbisahli&theme=solarized_dark)
