@@ -23,7 +23,6 @@
 - 🤟 Entrepreneurial software engineer.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 🧗 I try to: Go beyond and push the boundaries!
-- ⚡ Fun fact: I love working by myself.
 - 🔭 I’m currently sharpening my skills in full-stack Typescript, DevOps and PostgreSQL.
 
 <br>
