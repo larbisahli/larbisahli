@@ -43,10 +43,6 @@
 ![1](https://img.shields.io/badge/nginx-gray?style=for-the-badge&logo=nginx&logoColor=green)
 ![1](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-
-[![Larbi's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=larbisahli&custom_title=Larbi's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 🏆 GitHub Profile Trophy:
 ---
 <a href="https://github.com/ryo-ma/github-profile-trophy">
